@@ -7,7 +7,7 @@
 
 
 ##Applications
-Tell us what you used this dataset for.
+Tell us how this dataset was helpful to you by emailing us at houdan [at] jolome.com.
 
 * This dataset was primarily created for gender detection after NER 
 
