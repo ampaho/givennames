@@ -1,7 +1,7 @@
 Package: givennames
 Type: Package
 Title: Dataset of first names (given names) around the world
-Version: 0.1
+Version: 0.0.1
 Date: 2015-08-11
 Authors@R: person("Olalekan", "ABOU BAKAR", email = "houdan@jolome.com", role = c("aut", "cre"))
 Description: Dataset of first names(given names) and gender around the world primarily extracted
@@ -11,7 +11,6 @@ Description: Dataset of first names(given names) and gender around the world pri
     givennames.us: first names and gender in the United States
     givennames.fr: first names and gender in France
 License: GPL (>= 2)
-Depends: R (>= 2.14.0))
 LazyData: TRUE
 Suggests:
     dplyr
